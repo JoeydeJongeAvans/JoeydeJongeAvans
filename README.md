@@ -14,13 +14,7 @@ My name is Joey de Jonge and I am a 23-year-old Computer Science student at Avan
 
 
 ## 🛠 Skills
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![MongoDB][mongodb.com]][MongoDB-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 
 
 ## FAQ
