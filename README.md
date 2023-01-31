@@ -27,8 +27,8 @@ My name is Joey de Jonge and I am a 24-year-old Computer Science student at Avan
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
-## FAQ
-👩‍💻 I'm currently working on PDFMagick
+## 🔍 Info
+👩‍💻 I'm currently working on Vedr.nl 
 
 🧠 I'm currently learning Docker Devops
 
