@@ -8,7 +8,7 @@
 
 
 ## 🚀 About Me
-My name is Joey de Jonge and I am a 24-year-old Computer Science student at Avans Hogeschool Breda.
+My name is Joey de Jonge and I am a 25-year-old Working at CM.com as Consultant.
 
 
 
